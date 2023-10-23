@@ -1,0 +1,12 @@
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+div div {
+  border: 1px solid black;
+  height: 200px;
+  width: 80%;
+  margin: 20px auto auto;
+}
